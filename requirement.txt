@@ -1,0 +1,5 @@
+# Thư viện dùng để xử lý video và cắt frame (extract_frames.py)
+opencv-python>=4.8.0
+
+# Thư viện dùng để gửi yêu cầu mạng, cào ảnh từ web (extract_image.py)
+requests>=2.31.0
