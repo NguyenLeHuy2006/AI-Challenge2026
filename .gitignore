@@ -1,0 +1,17 @@
+# Bỏ qua toàn bộ dữ liệu ảnh/video (tuyệt đối không push lên Git)
+data/
+
+# Bỏ qua các file rác do Python tự sinh ra trong lúc chạy
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Bỏ qua môi trường ảo (nếu team cài đặt)
+venv/
+env/
+.env
+
+# Bỏ qua file rác bộ nhớ đệm của hệ điều hành Windows/Mac
+.DS_Store
+Thumbs.db
